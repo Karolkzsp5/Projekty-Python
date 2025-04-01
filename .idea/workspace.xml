@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4b1c1f7-b594-47f1-91cf-60e976cd6068" name="Changes" comment="Zadania">
-      <change afterPath="$PROJECT_DIR$/Lab_3/Zadanie_10.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Zadania Lab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Zadania Lab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3/Zadanie_10.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3/Zadanie_10.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3/Zadanie_10.6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +51,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Zadanie_10.1.executor": "Run",
+    "Python.Zadanie_10.4.executor": "Run",
+    "Python.Zadanie_10.5.executor": "Run",
+    "Python.Zadanie_10.6.executor": "Run",
     "Python.Zadanie_8.1.executor": "Run",
     "Python.Zadanie_8.8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -85,7 +89,7 @@
       <workItem from="1743520592086" duration="996000" />
       <workItem from="1743521725690" duration="85000" />
       <workItem from="1743521811669" duration="23000" />
-      <workItem from="1743521838221" duration="217000" />
+      <workItem from="1743521838221" duration="2905000" />
     </task>
     <task id="LOCAL-00001" summary="Zadania">
       <option name="closed" value="true" />
@@ -95,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743521338945</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Zadania">
+      <option name="closed" value="true" />
+      <created>1743522140886</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743522140886</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,7 +119,10 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Zadania_Lab$Zadanie_8_8.coverage" NAME="Zadanie_8.8 Coverage Results" MODIFIED="1743521061147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_2" />
+    <SUITE FILE_PATH="coverage/Zadania_Lab$Zadanie_10_6.coverage" NAME="Zadanie_10.6 Coverage Results" MODIFIED="1743524983978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_3" />
+    <SUITE FILE_PATH="coverage/Zadania_Lab$Zadanie_10_4.coverage" NAME="Zadanie_10.4 Coverage Results" MODIFIED="1743524002387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_3" />
     <SUITE FILE_PATH="coverage/Zadania_Lab$Zadanie_8_1.coverage" NAME="Zadanie_8.1 Coverage Results" MODIFIED="1743521087397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_2" />
     <SUITE FILE_PATH="coverage/Zadania_Lab$Zadanie_10_1.coverage" NAME="Zadanie_10.1 Coverage Results" MODIFIED="1743522050522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_3" />
+    <SUITE FILE_PATH="coverage/Zadania_Lab$Zadanie_10_5.coverage" NAME="Zadanie_10.5 Coverage Results" MODIFIED="1743524721875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_3" />
   </component>
 </project>
