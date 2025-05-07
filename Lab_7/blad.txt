@@ -1,0 +1,2 @@
+Jan,Kowalski,21,1234
+Anna,Nowak,22,5678
