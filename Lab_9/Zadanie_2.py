@@ -1,0 +1,6 @@
+print("liczba 100111 dziesiętnie:", int('100111', 2))
+print("liczba 111001001101 dziesiętnie:", int('111001001101', 2))
+print("liczba 77 dziesiętnie:", int('77', 8))
+print("liczba 263 dziesiętnie:", int('263', 8))
+print("liczba 7F dziesiętnie:", int('7F', 16))
+print("liczba F8FE dziesiętnie:", int('F8FE',16))

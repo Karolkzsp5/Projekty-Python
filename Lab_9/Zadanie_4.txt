@@ -1,0 +1,4 @@
+ostatnie 4 bity ---> mantysa
+
+1|110|1010
+S  C  mantysa

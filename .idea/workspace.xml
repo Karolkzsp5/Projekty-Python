@@ -4,23 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4b1c1f7-b594-47f1-91cf-60e976cd6068" name="Changes" comment="Zadania lab_6">
-      <change afterPath="$PROJECT_DIR$/Lab_7/Zadanie_6.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_7/Zadanie_6.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_7/Zadanie_6.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_7/Zadanie_6.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_7/Zadanie_6.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_7/Zadanie_6.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_7/Zadanie_6.8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_7/Zadanie_6.9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_8/Zadanie_6.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_8/Zadanie_6.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_8/Zadanie_6.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_8/Zadanie_6.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_8/Zadanie_6.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_8/Zadanie_6.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_8/Zadanie_6.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_8/Zadanie_6.8.py" afterDir="false" />
+    <list default="true" id="c4b1c1f7-b594-47f1-91cf-60e976cd6068" name="Changes" comment="Zadania lab_7 i lab_8">
+      <change afterPath="$PROJECT_DIR$/Lab_9/Zadanie_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_9/Zadanie_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_9/Zadanie_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_9/Zadanie_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_9/Zadanie_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_9/Zadanie_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_9/Zadanie_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_9/Zadanie_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_9/Zadanie_8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,11 +56,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Zadanie_1.executor": "Run",
     "Python.Zadanie_10.1.executor": "Run",
     "Python.Zadanie_10.1_Przyklad.executor": "Run",
     "Python.Zadanie_10.4.executor": "Run",
     "Python.Zadanie_10.5.executor": "Run",
     "Python.Zadanie_10.6.executor": "Run",
+    "Python.Zadanie_2.executor": "Run",
     "Python.Zadanie_6.1.executor": "Run",
     "Python.Zadanie_6.10.executor": "Run",
     "Python.Zadanie_6.2.executor": "Run",
@@ -110,8 +105,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
-        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
       </set>
     </attachedChunks>
   </component>
@@ -138,7 +133,10 @@
       <workItem from="1745939911122" duration="2225000" />
       <workItem from="1746003840327" duration="5069000" />
       <workItem from="1746545644286" duration="3948000" />
-      <workItem from="1746608881171" duration="4485000" />
+      <workItem from="1746608881171" duration="4779000" />
+      <workItem from="1747136995075" duration="1120000" />
+      <workItem from="1747763807960" duration="985000" />
+      <workItem from="1747819627220" duration="3923000" />
     </task>
     <task id="LOCAL-00001" summary="Zadania">
       <option name="closed" value="true" />
@@ -204,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746003896282</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Zadania lab_7 i lab_8">
+      <option name="closed" value="true" />
+      <created>1746613470556</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1746613470556</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,10 +221,12 @@
     <MESSAGE value="Zadania lab_3" />
     <MESSAGE value="Zadania lab_5" />
     <MESSAGE value="Zadania lab_6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadania lab_6" />
+    <MESSAGE value="Zadania lab_7 i lab_8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadania lab_7 i lab_8" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Projekty$Zadanie_8_1.coverage" NAME="Zadanie_8.1 Coverage Results" MODIFIED="1743587112023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_4" />
+    <SUITE FILE_PATH="coverage/Python_Projekty$Zadanie_1.coverage" NAME="Zadanie_1 Coverage Results" MODIFIED="1747821765869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_9" />
     <SUITE FILE_PATH="coverage/Python_Projekty$Zadanie_9_5.coverage" NAME="Zadanie_9.5 Coverage Results" MODIFIED="1745941734307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_6" />
     <SUITE FILE_PATH="coverage/Python_Projekty$Zadanie_9_8.coverage" NAME="Zadanie_9.8 Coverage Results" MODIFIED="1745941847968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_6" />
     <SUITE FILE_PATH="coverage/Python_Projekty$Zadanie_6_5.coverage" NAME="Zadanie_6.5 Coverage Results" MODIFIED="1746612884150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_8" />
@@ -232,6 +240,7 @@
     <SUITE FILE_PATH="coverage/Python_Projekty$Zadanie_9_1_Przyklad.coverage" NAME="Zadanie_9.1_Przyklad Coverage Results" MODIFIED="1745939991657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_6" />
     <SUITE FILE_PATH="coverage/Python_Projekty$Zadanie_8_3.coverage" NAME="Zadanie_8.3 Coverage Results" MODIFIED="1743589544666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_4" />
     <SUITE FILE_PATH="coverage/Python_Projekty$Zadanie_9_1.coverage" NAME="Zadanie_9.1 Coverage Results" MODIFIED="1744190422221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_5" />
+    <SUITE FILE_PATH="coverage/Python_Projekty$Zadanie_2.coverage" NAME="Zadanie_2 Coverage Results" MODIFIED="1747822327394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_9" />
     <SUITE FILE_PATH="coverage/Zadania_Lab$Zadanie_10_4.coverage" NAME="Zadanie_10.4 Coverage Results" MODIFIED="1743524002387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_3" />
     <SUITE FILE_PATH="coverage/Python_Projekty$test.coverage" NAME="test Coverage Results" MODIFIED="1744793215427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Projekty$Zadanie_9_9.coverage" NAME="Zadanie_9.9 Coverage Results" MODIFIED="1744192832607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_5" />
@@ -240,7 +249,7 @@
     <SUITE FILE_PATH="coverage/Zadania_Lab$Zadanie_8_8.coverage" NAME="Zadanie_8.8 Coverage Results" MODIFIED="1743521061147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_2" />
     <SUITE FILE_PATH="coverage/Python_Projekty$Zadanie_9_11.coverage" NAME="Zadanie_9.11 Coverage Results" MODIFIED="1744193041607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_5" />
     <SUITE FILE_PATH="coverage/Zadania_Lab$Zadanie_10_6.coverage" NAME="Zadanie_10.6 Coverage Results" MODIFIED="1743524983978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_3" />
-    <SUITE FILE_PATH="coverage/Python_Projekty$Zadanie_6_1.coverage" NAME="Zadanie_6.1 Coverage Results" MODIFIED="1746610721249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_8" />
+    <SUITE FILE_PATH="coverage/Python_Projekty$Zadanie_6_1.coverage" NAME="Zadanie_6.1 Coverage Results" MODIFIED="1747139002244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_8" />
     <SUITE FILE_PATH="coverage/Python_Projekty$Zadanie_9_3.coverage" NAME="Zadanie_9.3 Coverage Results" MODIFIED="1744191594372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_5" />
     <SUITE FILE_PATH="coverage/Python_Projekty$Zadanie_10_1_Przyklad.coverage" NAME="Zadanie_10.1_Przyklad Coverage Results" MODIFIED="1743529973785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_3" />
     <SUITE FILE_PATH="coverage/Python_Projekty$Zadanie_8_2.coverage" NAME="Zadanie_8.2 Coverage Results" MODIFIED="1743586705416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_4" />
